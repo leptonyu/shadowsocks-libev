@@ -10,10 +10,6 @@
         "METHOD": {
             "description": "shadowsocks-libev method",
             "value": "chacha20-ietf-poly1305"        
-        },
-        "WSPATH": {
-            "description": "websocket path",
-            "value": "/ChangeThis"        
         }
     },
     "website": "https://github.com/mixool/shadowsocks-libev",
